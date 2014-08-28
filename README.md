@@ -22,7 +22,7 @@ As we evolve as a community and as a culture:
 
 We need to do more than SHOW our work, we need to SHARE it. 
 
-Share Your Work: Ideas
+What Does it Mean to Share Your Work?
 ---------------
 
 This is still cookie dough: it's not cooked. You should fork and add or modify or help. Feel free to submit new ideas, open an issue to discuss further. 
