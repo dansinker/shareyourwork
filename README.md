@@ -12,7 +12,7 @@ And by that, [he and his team team meant](http://blog.apps.chicagotribune.com/20
 
 And, since, we have all gotten really good at showing our work.
 
-And *man* what work it is to show: over the last few years, the work that this community has produced has evolved exponentially. We've gone from google map mashups to writing entire mapping libraries.
+And *man* what work it is to show: over the last few years, the work that this community has produced has evolved exponentially. We've gone from google map mashups to writing entire mapping libraries. From basic charts and graphs to complex masterpieces using newsroom-built libraries like D3. (We've even gone from being in awe of Snowfall to making it a punchline in record time.)
 
 That is, in large part, thanks to this SHOW YOUR WORK philosophy: it's allowed the things we do best--and the way we did them--to spread rapidly.
 
