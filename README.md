@@ -1,7 +1,7 @@
-shareyourwork
+Share Your Work
 =============
 
-This is a stub of ideas outlined in a talk I gave at [the 2014 Hacks Hackers Media Party in Buenos Aires](
+This is a stub of ideas outlined in a talk I gave at [the 2014 Hacks Hackers Media Party in Buenos Aires](http://mediaparty.info/2014/)
 
 background
 ----------
