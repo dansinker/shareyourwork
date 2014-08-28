@@ -35,4 +35,4 @@ It's cookie dough, but I do want to offer some things that I think SHARE YOUR WO
 
 * explain: Doing the work to help people to understand the WHYs of your decisions through extensive process documentation as well. And putting that in a place people will find it (like, say Source, which collects this kind of work from teams all over), including linking it up from the readme in repos.
 
-* reach out: There are lots of people that should be involved in what we do. It's up to us to reach out to them. In a newsroom, maybe that means having informal lunches to discuss topics and get colleagues up to speed. Outside the newsroom it means finding underrepresented communities and bringing them in.
+* connect: There are lots of people that should be involved in what we do. It's up to us to reach out to them. In a newsroom, maybe that means having informal lunches to discuss topics and get colleagues up to speed. Outside the newsroom it means finding underrepresented communities and bringing them in.
